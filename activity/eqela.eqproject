@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Activity
+#
+
+projectname: Activity
+vendorid: com.sem.pao
+mainmodule: com.sem.pao.activity
